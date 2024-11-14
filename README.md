@@ -25,7 +25,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 Depoyu klonlayın:
 
-git clone https://github.com/kullaniciadiniz/multi-language-youtube-transcript.git
+git clone https://github.com/escalldes/proje.git
 Gerekli Python paketlerini yükleyin: Proje klasörüne gidin ve gerekli bağımlılıkları pip ile yükleyin:
 
 pip install -r requirements.txt
